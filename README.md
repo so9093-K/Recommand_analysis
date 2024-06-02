@@ -9,4 +9,6 @@
 #### 02. Neural-Collaborative-Filtering
 ###### 딥러닝 알고리즘 기법(NCF)을 활용한 추천 알고리즘 개발 소스
 ###### EDA.... - 데이터 전처리 및 딥러닝 활용 테스트 알고리즘 형성 및 결과 도출
-[추천 시스템 구현.pdf](https://github.com/user-attachments/files/15524673/default.pdf)
+
+
+[추천 시스템 구현 과정.pdf](https://github.com/user-attachments/files/15524676/default.pdf)
